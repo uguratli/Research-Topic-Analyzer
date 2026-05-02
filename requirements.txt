@@ -5,3 +5,4 @@ plotly
 scikit-learn
 bertopic
 umap-learn
+feedparser
